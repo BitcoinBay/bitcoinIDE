@@ -1,4 +1,4 @@
-Bitcoin Script IDE
+Bitcoin Script IDE - Bitcoin Bay Fork
 ============================
 
 A Bitcoin Script IDE to facilitate the learning, testing, and teaching of Bitcoin Script.
